@@ -37,8 +37,9 @@ Responsive Layout: Clean and organized layout ensures important insights are vis
 
 
 6. Snapshot / Demos
-Show what the dashboard looks like:https://github.com/RISHABHkumar-03/Car-Sales-Dashboard/blob/main/car%20sales%20dashboard.pbix
-Examples:[https://github.com/RISHABHkumar-03/Car-Sales-Dashboard/blob/main/snapshot%20of%20Dashboard.docx](https://github.com/RISHABHkumar-03/Car-Sales-Dashboard/blob/main/snapshot%20of%20Dashboard.docx)
+Show what the dashboard looks like
+in open powerBI:https://github.com/RISHABHkumar-03/Car-Sales-Dashboard/blob/main/car%20sales%20dashboard.pbix
+screenshot :(https://github.com/RISHABHkumar-03/Car-Sales-Dashboard/blob/main/snapshot%20of%20Dashboard.docx)
 
 
 
